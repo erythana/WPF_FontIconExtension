@@ -13,7 +13,7 @@ Fonts can be access via CodePoint or Ligature-Name, see examples.
 <Image Source="{local:IconImage IconLigatureName=thumb_up}" />
 ```
 Result:
-![alt text](https://github.com/erythana/WPF_FontIconExtension/screenshot.png "Font ligature example")
+![alt text](https://github.com/erythana/WPF_FontIconExtension/blob/main/screenshot.png "Font ligature example")
 ---
 ## Properties
 There are three properties in this Markup extension:
